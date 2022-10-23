@@ -5,19 +5,19 @@ function Navbar() {
     return (
        <div className="Navbar">
             <li className="navbar_link">
-                <Link className="link" to="/">Home</Link>
+                <Link className="link" to="/personal_website/">Home</Link>
             </li>
             <li className="navbar_link">
-                <Link className="link" to="/projects">Projects</Link>
+                <Link className="link" to="/personal_website/projects">Projects</Link>
             </li>
             <li className="navbar_link">
-                <Link className="link" to="/about">About</Link>
+                <Link className="link" to="/personal_website/about">About</Link>
             </li>
             <li className="navbar_link">
-                <Link className="link" to="/resume">Resume</Link>
+                <Link className="link" to="/personal_website/resume">Resume</Link>
             </li>
             <li className="navbar_link">
-                <Link className="link" to="/contact">Contact Me</Link>
+                <Link className="link" to="/personal_website/contact">Contact Me</Link>
             </li>
         </div> 
     );
