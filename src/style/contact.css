@@ -1,0 +1,43 @@
+.Contact {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea[name=message] {
+    width: 80%;
+    resize: vertical;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 1px 1px 4px;
+    height: 150px;
+}
+
+input {
+    width: 80%;
+    resize: vertical;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 1px 1px 4px;
+}
+
+button {
+    background-color: #5bed60;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+label {
+    line-height: 30px;
+}

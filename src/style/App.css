@@ -1,0 +1,103 @@
+html {background-color: #effaf6; }
+
+.Home {
+  text-align: center;
+  background-color: #effaf6;
+}
+
+
+.my_photo {
+  padding-top: 10px;
+  height: 46vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .my_photo {
+    animation: fadeIn 2s;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+   opacity: 0; 
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Home-body {
+    animation: fadeIn 5s;
+  }
+}
+
+.Home-body {
+  background-color: #effaf6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  color: black;
+}
+
+.social-container {
+  background-color: #effaf6;
+  padding: 25px 50px;
+}
+
+a {
+  margin: 10 lrem;
+  transition: transform 250ms;
+}
+
+a.youtube {
+  color: black;
+  margin: 10px;
+}
+
+a.youtube:hover {
+  color: red;
+}
+
+a.instagram {
+  color: black;
+  margin: 10px;
+}
+
+a.instagram:hover {
+  color: pink;
+}
+
+a.github {
+  color: black;
+  margin: 10px;
+}
+
+a.github:hover {
+  color: orange;
+}
+
+.Navbar {
+  background-color: #effaf6;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: end;
+}
+
+.navbar_link {
+  display: inline;
+  padding: 16px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.Resume {
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.Projects {
+    text-align: center;
+    background-color: #effaf6;
+}
+
+.Cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    justify-content: space-evenly;
+}
