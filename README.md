@@ -1,6 +1,6 @@
 # My Personal Website
 
-This project was created using React and uses Github API.
+This project was created using React and is deployed using Pages at https://w-lai.github.io/personal_website.
 
 ## Available Scripts
 
