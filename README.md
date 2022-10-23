@@ -4,6 +4,8 @@ This project was created using React and is deployed using Pages at https://w-la
 
 Used the workaround found [here](https://github.com/rafgraph/spa-github-pages) to deploy to Pages.
 
+The project involves the use of email.js for the contact form and Github API for the projects page.
+
 ## Available Scripts
 
 In the project directory, you can run:
