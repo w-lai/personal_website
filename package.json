@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://w-lai.github.io",
+  "homepage": "http://w-lai.github.io/personal_website",
   "private": true,
   "dependencies": {
     "@emotion/core": "^11.0.0",
