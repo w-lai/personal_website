@@ -1,6 +1,6 @@
 # My Personal Website
 
-This project was created using React.
+This project was created using React and uses Github API.
 
 ## Available Scripts
 
