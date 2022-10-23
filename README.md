@@ -1,6 +1,6 @@
 # My Personal Website
 
-This project was created using React and is deployed using Pages at https://w-lai.github.io/personal_website.
+This project was created using React and react-router and is deployed using Pages at https://w-lai.github.io/personal_website.
 
 Used the workaround found [here](https://github.com/rafgraph/spa-github-pages) to deploy to Pages.
 
